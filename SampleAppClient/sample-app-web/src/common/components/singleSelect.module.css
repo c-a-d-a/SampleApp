@@ -1,0 +1,8 @@
+.singleSelectMenuItem {
+  min-width: 0;
+}
+
+.singleSelectContainer {
+  border: 1px solid #bfbfbf;
+  width: 110px;
+}

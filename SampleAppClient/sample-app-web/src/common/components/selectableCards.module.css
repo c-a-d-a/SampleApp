@@ -1,0 +1,8 @@
+.selectableCardsItemCard {
+  margin: 5px;
+}
+
+.selectableCardsSelectedItemCard {
+  margin: 5px;
+  background-color: lightcyan;
+}

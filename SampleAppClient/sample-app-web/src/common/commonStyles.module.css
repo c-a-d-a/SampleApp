@@ -1,0 +1,19 @@
+.centeredHorizontalAndVertical {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.centeredVertical {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.centeredHorizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

@@ -1,0 +1,17 @@
+.panelCardContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  margin: 20px;
+}
+
+.panelHeader {
+  padding-top: 10px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.panelBody {
+  padding: 20px;
+  height: 100%;
+}

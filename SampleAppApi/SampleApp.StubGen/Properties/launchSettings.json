@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RevoRest.StubGen": {
+      "commandName": "Project",
+      "commandLineArgs": "$(SolutionPath)",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
